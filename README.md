@@ -74,7 +74,7 @@
 ## 📈 GitHub Snapshot
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zioni715&show_icons=true&hide_title=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&cache_seconds=7200" alt="GitHub stats" height="150" />
-  <img src="https://streak-stats.demolab.com?user=zioni715&theme=transparent&hide_border=true" alt="GitHub streak" height="150" />
+  <img src="https://streak-stats.demolab.com?user=zioni715&theme=transparent&hide_border=true" alt="" height="150" />
 </div>
 
 ## 🧩 Baekjoon & Snake
