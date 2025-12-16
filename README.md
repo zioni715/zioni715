@@ -77,7 +77,8 @@
   <img src="https://streak-stats.demolab.com?user=zioni715&theme=transparent&hide_border=true" alt="" height="150" />
 </div>
 
-## 🧩 Baekjoon & Snake
+
+
 <div align="center">
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=thswldnjs70" alt="Baekjoon tier badge">
 </div>
