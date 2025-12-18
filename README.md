@@ -10,10 +10,6 @@
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zioni715)
   [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logoColor=white)](https://velog.io/@hamzzi_lover)
   [![Naver Blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/wowgiroong_715)
-
-  <sub>
-    🔗 <a href="https://zioni715.github.io">zioni715.github.io</a> · <a href="https://velog.io/@hamzzi_lover">velog.io/@hamzzi_lover</a>
-  </sub>
 </div>
 
 ## 👀 About Me
