@@ -72,8 +72,8 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zioni715&show_icons=true&hide_title=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zioni715&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="150" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zioni715&show_icons=true&hide_title=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub stats" height="150" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zioni715&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400" alt="Top languages" height="150" />
 </div>
 
 <div align="center">
