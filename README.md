@@ -77,7 +77,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=zioni715" alt="GitHub streak" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=zioni715" alt="" height="150" />
 </div>
 
 <div align="center">
