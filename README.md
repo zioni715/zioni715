@@ -13,18 +13,25 @@
 </div>
 
 ## 👀 About Me
-#### :raising_hand: Smart Infrastructure researcher blending BIM/CAD workflows with automation and data
-#### :triangular_ruler: Interested in digital twins, construction automation, and O&M decision support
-#### :bar_chart: Simulation-driven verification for structural performance
-#### :mortar_board: M.S. Civil & Environmental Engineering @ Yonsei · B.S. Architectural Engineering @ SeoulTech
-#### :gear: I like clear diagrams, reproducible pipelines, and tooling that keeps teams aligned
+### Major
+- Architectural Engineering (B.S)
+- Civil and Environmental Engineering (M.S)
+
+### Interests
+- AI
+- Automation
+- Infrastructure
+- Optimization
+
+### What I Want To Do?
+- I aim to automate the entire construction lifecycle, from site operations to maintenance, and drive optimization through AI.
 
 <br />
 
-## 🎯 Focus Areas
-- Smart infrastructure operations automation
-- Structural performance simulation & verification
-- BIM-based digital twins and construction automation
+## 🎯 Research Interests
+- AI-Based Construction Management
+- Ontology
+- Knowledge Graph
 
 ## 🧱 Tech Stack
 <div align="center">
