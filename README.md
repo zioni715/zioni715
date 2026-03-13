@@ -16,6 +16,7 @@
 ### Major
 - Architectural Engineering (B.S)
 - Civil and Environmental Engineering (M.S)
+- And... Maybe Ph.D??????
 
 ### Interests
 - AI
