@@ -13,6 +13,9 @@
 </div>
 
 ## 👀 About Me
+### I am...
+- Student Researcher in Korea Institute of Civil Engineering and Building Technology
+
 ### Major
 - Architectural Engineering (B.S)
 - Civil and Environmental Engineering (M.S)
