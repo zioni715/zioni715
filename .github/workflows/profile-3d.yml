@@ -1,6 +1,12 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - .github/workflows/profile-3d.yml
   schedule:
     # 00:00 KST == 15:00 UTC
     - cron: "0 15 * * *"
@@ -26,6 +32,9 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "Generate 3D contribution graph"; then
+          if git diff --cached --quiet; then
+            echo "No generated graph changes."
+          else
+            git commit -m "Generate 3D contribution graph"
             git push
           fi
