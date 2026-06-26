@@ -56,7 +56,9 @@
 - Development of an Automated Framework for Construction Progress Payment Document Generation
 - Development of a Knowledge Graph-Based Framework for Automated Construction Schedule Management
 
-[Keywords] Construction AI | Construction Documents | Progress Payment | Document Automation | Information Consistency | Ontology
+[Keywords] 
+
+Construction AI | Construction Documents | Progress Payment | Document Automation | Information Consistency | Ontology
 
 <br />
 
