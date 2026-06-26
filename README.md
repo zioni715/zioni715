@@ -16,19 +16,19 @@
 <div align="center">
   <!-- # Website -->
   <a href="https://zioni715.github.io">
-    <img src="https://img.shields.io/badge/website-zioni715.github.io-d0d7de?style=for-the-badge&labelColor=f6f8fa&logo=vercel&logoColor=24292f" alt="website" />
+    <img src="https://img.shields.io/badge/website-%20-f6f8fa?style=for-the-badge&labelColor=f6f8fa&logo=vercel&logoColor=24292f" alt="website" />
   </a>
   <!-- # GitHub -->
   <a href="https://github.com/zioni715">
-    <img src="https://img.shields.io/badge/github-zioni715-d0d7de?style=for-the-badge&labelColor=f6f8fa&logo=github&logoColor=24292f" alt="github" />
+    <img src="https://img.shields.io/badge/github-%20-f6f8fa?style=for-the-badge&labelColor=f6f8fa&logo=github&logoColor=24292f" alt="github" />
   </a>
   <!-- # Velog -->
   <a href="https://velog.io/@hamzzi_lover">
-    <img src="https://img.shields.io/badge/velog-hamzzi__lover-d0d7de?style=for-the-badge&labelColor=f6f8fa&logo=velog&logoColor=24292f" alt="velog" />
+    <img src="https://img.shields.io/badge/velog-%20-f6f8fa?style=for-the-badge&labelColor=f6f8fa&logo=velog&logoColor=24292f" alt="velog" />
   </a>
   <!-- # Naver Blog -->
   <a href="https://blog.naver.com/wowgiroong_715">
-    <img src="https://img.shields.io/badge/naverblog-wowgiroong__715-d0d7de?style=for-the-badge&labelColor=f6f8fa&logo=naver&logoColor=24292f" alt="naverblog" />
+    <img src="https://img.shields.io/badge/naverblog-%20-f6f8fa?style=for-the-badge&labelColor=f6f8fa&logo=naver&logoColor=24292f" alt="naverblog" />
   </a>
 </div>
 
@@ -36,11 +36,14 @@
 
 ## Education
 <!-- # Education -->
-
+- <img src="images/seoultech.gif" width="22" alt="SeoulTech logo" /> B.S. in Architectural Engineering, Seoul National University of Science and Technology (2020-2025)
+- <img src="images/yonsei.png" width="22" alt="Yonsei logo" /> M.S. in Civil and Environmental Engineering, Yonsei University (2026-present)
 <br />
 
 ## External Education
 <!-- # External Education -->
+- 2024.06-2024.08 스마트 건설산업 전문인력 양성과정(건축•토목)
+- 2025.08-2026.02 [HDC Labs] 생성형 AI활용 스마트 IoT 분석 및 서비스 개발 과정
 
 <br />
 
@@ -48,6 +51,11 @@
 
 ## Current Research Task
 <!-- # Current Research Task -->
+- Cross-Document Information Consistency Verification for Construction Progress Payment Documents
+- Comparative Evaluation of RDF-Based Ontology Representation Methods for Semantic Structuring of Construction Progress Payment Documents
+- Development of an Automated Framework for Construction Progress Payment Document Generation
+- Development of a Knowledge Graph-Based Framework for Automated Construction Schedule Management
+[Keywords] Construction AI | Construction Documents | Progress Payment | Document Automation | Information Consistency | Ontology
 
 <br />
 
@@ -59,38 +67,35 @@
 ---
 
 <div align="center">
-  <h2>contribution(3D)</h2>
+  <h2>Github Contribution</h2>
   <!-- # Contribution 3D -->
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub contribution graph" />
 </div>
 
 ---
 
-## backjoon
+## Backjoon
 <!-- # Backjoon -->
 <div align="center">
   <a href="https://solved.ac/thswldnjs70">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=thswldnjs70" alt="Solved.ac profile badge" />
   </a>
-  <br />
-  <a href="https://solved.ac/thswldnjs70">
-    <img src="https://img.shields.io/badge/solved.ac-thswldnjs70-00B4D8?style=flat-square" alt="solved.ac profile" />
-  </a>
-  <a href="https://www.acmicpc.net/user/thswldnjs70">
-    <img src="https://img.shields.io/badge/BOJ-thswldnjs70-0076C0?style=flat-square" alt="Baekjoon profile" />
-  </a>
 </div>
 
 <br />
 
-## language
+## Language
 <!-- # Language -->
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zioni715&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400&v=1" alt="Top languages" />
+
+</div>
 
 <br />
 
 ---
 
-## tech stack
+## Tech stack
 <!-- # Tech Stack -->
 <div align="center">
   <p><strong>Languages</strong></p>
@@ -132,5 +137,5 @@
 
 <br />
 
-## certification
+## Certification
 <!-- # Certification -->
