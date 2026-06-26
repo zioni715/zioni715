@@ -68,6 +68,18 @@
 
 ## backjoon
 <!-- # Backjoon -->
+<div align="center">
+  <a href="https://solved.ac/thswldnjs70">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=thswldnjs70" alt="Solved.ac profile badge" />
+  </a>
+  <br />
+  <a href="https://solved.ac/thswldnjs70">
+    <img src="https://img.shields.io/badge/solved.ac-thswldnjs70-00B4D8?style=flat-square" alt="solved.ac profile" />
+  </a>
+  <a href="https://www.acmicpc.net/user/thswldnjs70">
+    <img src="https://img.shields.io/badge/BOJ-thswldnjs70-0076C0?style=flat-square" alt="Baekjoon profile" />
+  </a>
+</div>
 
 <br />
 
