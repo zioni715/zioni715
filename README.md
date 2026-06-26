@@ -15,20 +15,20 @@
 
 <div align="center">
   <!-- # Website -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/website-%20-d0d7de?style=for-the-badge&labelColor=f6f8fa&logoColor=24292f" alt="website" />
+  <a href="https://zioni715.github.io">
+    <img src="https://img.shields.io/badge/website-zioni715.github.io-d0d7de?style=for-the-badge&labelColor=f6f8fa&logo=vercel&logoColor=24292f" alt="website" />
   </a>
   <!-- # GitHub -->
   <a href="https://github.com/zioni715">
-    <img src="https://img.shields.io/badge/github-%20-d0d7de?style=for-the-badge&labelColor=f6f8fa&logo=github&logoColor=24292f" alt="github" />
+    <img src="https://img.shields.io/badge/github-zioni715-d0d7de?style=for-the-badge&labelColor=f6f8fa&logo=github&logoColor=24292f" alt="github" />
   </a>
   <!-- # Velog -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/velog-%20-d0d7de?style=for-the-badge&labelColor=f6f8fa&logoColor=24292f" alt="velog" />
+  <a href="https://velog.io/@hamzzi_lover">
+    <img src="https://img.shields.io/badge/velog-hamzzi__lover-d0d7de?style=for-the-badge&labelColor=f6f8fa&logo=velog&logoColor=24292f" alt="velog" />
   </a>
   <!-- # Naver Blog -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/naverblog-%20-d0d7de?style=for-the-badge&labelColor=f6f8fa&logo=naver&logoColor=24292f" alt="naverblog" />
+  <a href="https://blog.naver.com/wowgiroong_715">
+    <img src="https://img.shields.io/badge/naverblog-wowgiroong__715-d0d7de?style=for-the-badge&labelColor=f6f8fa&logo=naver&logoColor=24292f" alt="naverblog" />
   </a>
 </div>
 
@@ -92,6 +92,43 @@
 
 ## tech stack
 <!-- # Tech Stack -->
+<div align="center">
+  <p><strong>Languages</strong></p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
+
+  <p><strong>Data</strong></p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+
+  <p><strong>BIM / CAD</strong></p>
+  <img src="https://img.shields.io/badge/Revit-0078D4?style=flat-square&logo=autodesk&logoColor=white" alt="Revit" />
+  <img src="https://img.shields.io/badge/AutoCAD-0078D4?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD" />
+  <img src="https://img.shields.io/badge/SketchUp-005A9C?style=flat-square&logo=sketchup&logoColor=white" alt="SketchUp" />
+  <img src="https://img.shields.io/badge/Rhino%208-801010?style=flat-square&logoColor=white" alt="Rhino" />
+  <img src="https://img.shields.io/badge/Tekla-0099FF?style=flat-square&logoColor=white" alt="Tekla" />
+  <img src="https://img.shields.io/badge/Navisworks-0078D4?style=flat-square&logo=autodesk&logoColor=white" alt="Navisworks" />
+
+  <p><strong>Visualization</strong></p>
+  <img src="https://img.shields.io/badge/Lumion-00A4EF?style=flat-square&logoColor=white" alt="Lumion" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+
+  <p><strong>Simulation / Analysis</strong></p>
+  <img src="https://img.shields.io/badge/EES-FF6B00?style=flat-square&logoColor=white" alt="EES" />
+  <img src="https://img.shields.io/badge/Midas-FF6600?style=flat-square&logoColor=white" alt="Midas" />
+  <img src="https://img.shields.io/badge/Abaqus-1F74B7?style=flat-square&logoColor=white" alt="Abaqus" />
+
+  <p><strong>Collaboration / Ops</strong></p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
+
+  <p><strong>OS / Environments</strong></p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-DA4633?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+</div>
 
 <br />
 
